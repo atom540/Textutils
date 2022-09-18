@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.sumit{
+    display: flex;
+    /* text-align: center; */
+    /* justify-content: center; */
+    align-items: center;
+}
